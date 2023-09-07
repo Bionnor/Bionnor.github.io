@@ -1,0 +1,140 @@
+{
+  "home.band.welcome": "Bienvenido a Flora",
+  "nav": {
+    "Home": "Inicio",
+    "ProductsAndServices": "Productos y Servicios",
+    "Blogs": "Blogs",
+    "AboutUs": "¿Quiénes somos?",
+    "Contact": "Contacto",
+    "DropdownPS": {
+      "ProductsAndServicesText": "Productos y Servicios",
+      "FoodIngredient": "Ingrediente Alimentario",
+      "CosmeticIngredient": "Ingrediente Cosmético",
+      "FinalProducts": "Productos Terminados",
+      "WhiteBrand": "Marca Blanca"
+    },
+    "languages": {
+      "english": "Inglés",
+      "french": "Francés",
+      "german": "Alemán",
+      "espagnol": "Español"
+    }
+  },
+  "section": {
+    "Product": {
+      "title": "Nuestros Productos y Servicios",
+      "subtitle": "Nuestros productos están diseñados para todos.",
+      "buttons": {
+        "FoodIngredient": "Ingrediente Alimentario",
+        "CosmeticIngredient": "Ingrediente Cosmético",
+        "FinalProducts": "Productos Terminados",
+        "WhiteBrand": "Convertirse en Marca Blanca"
+      }
+    },
+    "Seller": {
+      "title": "Descubre nuestra exclusiva gama",
+      "title-2": "de productos de calidad",
+      "subtitle": "Calidad, Variedad, Excelencia"
+    },
+    "VisionAndMission": {
+      "title": "Nuestra Misión y Visión",
+      "subtitle": "Unidos por una visión común, desplegamos nuestro potencial colectivo para alcanzar la excelencia",
+      "VisionText": {
+        "title": "Visión",
+        "content": "Nuestra visión es ser líderes mundiales en la producción y suministro de ingredientes orgánicos y equitativos provenientes de productos típicos locales de Túnez, obtenidos de manera sostenible y responsable."
+      },
+      "MissionText": {
+        "title": "Misión",
+        "content": "Proveer ingredientes orgánicos innovadores a las industrias cosméticas, alimenticias y nutracéuticas, poniendo énfasis en productos locales típicos como el cactus, la granada y los dátiles."
+      }
+    },
+    "Blog": {
+      "title": "Nuestros Blogs",
+      "subtitle": "Explora nuestros blogs para una fuente inagotable de inspiración."
+    },
+    "Collaborators": {
+      "title": "\"Certificaciones: Una prueba de nuestra experiencia y confiabilidad\""
+    },
+    "mail": {
+      "title": "Regístrese para estar informado y no perderse nada.",
+      "button": "Registrarse"
+    }
+  },
+  "ViewMoreButton": "ver más",
+  "footer": {
+    "content": "\"Acerca de La Cooperativa Agrícola FLORA: Cultivando la excelencia y estimulando el desarrollo regional\"",
+    "title": {
+      "first": "Flora: Ingredientes excepcionales, ",
+      "second": "métodos estandarizados."
+    },
+    "urls": {
+      "UsefulLinksText": "Enlaces Útiles",
+      "UsefulLinks": {
+        "FoodIngredient": "Ingrediente Alimentario",
+        "WhiteBrand": "Convertirse en Marca Blanca"
+      },
+      "InformationsText": "Información",
+      "Informations": {
+        "AboutUs": "¿Quiénes somos?",
+        "Contact": "Contacto"
+      },
+      "MenuText": "Menú",
+      "Menu": {
+        "Home": "Inicio",
+        "ProductsAndServices": "Productos y Servicios",
+        "Blogs": "Blogs"
+      }
+    }
+  },
+  "product": {
+    "nav": {
+      "result1": "Se encontraron",
+      "result2": "productos para ti"
+    },
+    "indicator": {
+      "new": "Nuevo"
+    },
+    "container": {
+      "alert": "nada que mostrar"
+    }
+  },
+  "blog": {
+    "header": {
+      "firstTitle": "Desde nuestro Blog",
+      "content": "Descubre nuestro blog para mantenerte informado de las últimas noticias."
+    }
+  },
+  "about-us": {
+    "header.presentation": "La Cooperativa Agrícola FLORA es una asociación entre la cooperativa FLORA y actores como el INDH, el OCP, el departamento provincial de agricultura y el ONCA. Con sede en BOUJAAD, se especializa en el cultivo del nopal y la producción de jugo, vinagre, mermelada, ensalada, polvo de nopal y aceite derivado de esta fruta. Su misión es mejorar los ingresos de los agricultores, fomentar la inserción económica de las mujeres y los jóvenes, y contribuir al desarrollo socioeconómico de la región.",
+    "steps": {
+      "recolte": {
+        "title": "Cosecha",
+        "content": "Cuando los nopales están maduros, son cuidadosamente recolectados de los cactus. Los trabajadores de la cooperativa seleccionan las frutas de calidad, eliminando aquellas que están dañadas o presentan defectos."
+      },
+      "tri": {
+        "title": "Clasificación y Preparación",
+        "content": "Los nopales recolectados son luego preparados para ser transformados en productos finales. Esto puede implicar pelar las frutas para quitar las espinas y la piel externa, cortarlas en pedazos o separar la pulpa y las semillas, dependiendo del producto final que se busque."
+      },
+      "transformation": {
+        "title": "Transformación",
+        "content": "Después de la preparación, los nopales son transformados en una variedad de productos finales: jugo, vinagre, mermelada, ensalada, polvo de nopal, entre otros.<br>Las frutas son exprimidas para extraer su jugo, que luego se filtra y pasteuriza antes de ser embotellado. La pulpa de los nopales puede cocinarse con azúcar para crear una deliciosa mermelada. Además, pueden deshidratarse para obtener polvo de nopal, utilizado como suplemento alimenticio, y las semillas pueden prensarse para extraer un aceite utilizado en cocina o productos cosméticos."
+      },
+      "emballage": {
+        "title": "Embalaje y Distribución",
+        "content": "Una vez que los productos finales están listos, se empacan adecuadamente, se etiquetan y están listos para ser distribuidos en el mercado. La cooperativa puede manejar la distribución directa a los consumidores, minoristas locales o canales de distribución más amplios, dependiendo de su estrategia comercial."
+      }
+    }
+  },
+  "contact-us": {
+    "header-contact-us": {
+      "firstTitle": "Contáctenos",
+      "content": "No dude en contactarnos. Nuestro equipo dedicado está aquí para ayudarle."
+    },
+    "info-contact-us": "Información",
+    "address": "Direcciones",
+    "header-store": {
+      "firstTitle": "Nuestra Tienda",
+      "content": "Descubre la ubicación de nuestra tienda a través de nuestro mapa interactivo."
+    }
+  }
+}

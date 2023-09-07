@@ -1,0 +1,110 @@
+{
+  "currentPage": 0,
+  "totalPages": 1,
+  "pageSize": 6,
+  "responseList": [
+
+    {
+      "id": 1,
+      "name": "Confiture De cerises",
+      "description": "Confiture de Cerises élaboré selon une formule de grand-mère sans colorant sans additifs et avec des produits 100% naturels. Une merveille qui accompagnera vos petits déjeuners et vos goûtés sur du pain ou de la brioche",
+      "price": 20.0,
+      "promotion": 20,
+      "litrage": "250g",
+      "shortDescription": "give me example of short description",
+      "utilization": "give me example of utilization",
+      "quantity": 0,
+      "category": {
+        "id": 3,
+        "name": "Confiture",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/confi cerises.jpg",
+      "createdAt": "2023-09-05T22:11:31.791+00:00",
+      "updatedAt": null,
+
+      "active": false
+    },
+    {
+      "id": 1,
+      "name": "Confiture De cerises",
+      "description": "Confiture de Cerises élaboré selon une formule de grand-mère sans colorant sans additifs et avec des produits 100% naturels. Une merveille qui accompagnera vos petits déjeuners et vos goûtés sur du pain ou de la brioche",
+      "price": 25.0,
+      "promotion": 20,
+      "litrage": "250g",
+      "shortDescription": "give me example of short description",
+      "utilization": "give me example of utilization",
+      "quantity": 0,
+      "category": {
+        "id": 3,
+        "name": "Confiture",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/confi cerises.jpg",
+      "createdAt": "2023-09-05T22:11:31.791+00:00",
+      "updatedAt": null,
+
+      "active": false
+    },
+    {
+      "id": 2,
+      "name": "Confiture de figues de barbarie",
+      "description": "Confiture de figues de Barbarie élaboré selon une formule de grand-mère sans colorant ni additifs et avec des produits 100% naturels\n\nC'est une confiture à la qualité gustative exceptionnelle. A déguster au petit déjeuner en tartine, dans des yaourts, avec un sorbet aux agrumes, de la glace ou sur un fond de tarte aux fruits. La confiture FLORA est antifatigue, antistress et facilite le transit intestinal.",
+      "price": 25.0,
+      "promotion": 25,
+      "shortDescription": "Confiture de figues de Barbarie élaboré selon une formule de grand-mère sans colorant ni additifs et avec des produits 100% naturels",
+      "utilization": "Cette confiture est une véritable gourmandise à déguster. Elle peut être tartinée sur du pain, utilisée dans des desserts ou même accompagnée de fromage. Son goût exotique et sa texture veloutée vous séduiront à coup sûr.",
+      "quantity": 0,
+      "category": {
+        "id": 3,
+        "name": "Confiture",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/confi figue.jpg",
+      "createdAt": "2023-09-05T22:11:31.793+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Confiture de pomme",
+      "description": "Confiture de figues de Barbarie élaborée selon une formule de grand-mère sans colorant ni additifs et avec des produits 100% naturels. Une confiture exceptionnelle à la saveur unique et délicate.",
+      "price": 25.0,
+      "promotion": 25,
+      "shortDescription": "Confiture de figues de Barbarie raffinée",
+      "utilization": "Cette confiture est une véritable gourmandise à déguster. Elle peut être tartinée sur du pain, utilisée dans des desserts ou même accompagnée de fromage. Son goût exotique et sa texture veloutée vous séduiront à coup sûr.",
+      "quantity": 0,
+      "category": {
+        "id": 3,
+        "name": "Confiture",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/confi pomme.jpg",
+      "createdAt": "2023-09-05T22:11:31.793+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    }
+    ]
+    }

@@ -1,0 +1,57 @@
+{
+  "currentPage": 0,
+  "totalPages": 1,
+  "pageSize": 6,
+  "responseList": [
+    {
+      "id": 8,
+      "name": "Jus de cerise",
+      "description": "\"Nectar de figues de barbarie 250ml La figue de Barbarie, un fruit magique...\nun goût vraiment à tester. Avec sa couleur dorée, le nectar précieusement extrait de la figue de barbarie en gardant ses vitamines, est recherché pour ses vertus aidant à réduire les douleurs corporelles. Son goût mitigé âpre et doux est très efficace contre les irritations intestinales ainsi que la constipation, un antifatigue et anti-stress",
+      "price": 0.0,
+      "promotion": 20,
+      "shortDescription": "Nectar de figues de barbarie 250ml",
+      "utilization": "Dégustez ce nectar de figues de barbarie comme une boisson rafraîchissante à tout moment de la journée. Son goût unique, combiné à ses propriétés apaisantes et antifatigue, en fait une option idéale pour vous revitaliser après une journée bien remplie ou pour profiter d'un moment de détente.",
+      "quantity": 0,
+      "category": {
+        "id": 2,
+        "name": "Jus",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/jus cerices.jpg",
+      "createdAt": "2023-09-05T22:11:31.805+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    },
+    {
+      "id": 9,
+      "name": "Jus pomme",
+      "description": "\"Nectar de figues de barbarie 250ml La figue de Barbarie, un fruit magique...\nun goût vraiment à tester. Avec sa couleur dorée, le nectar précieusement extrait de la figue de barbarie en gardant ses vitamines, est recherché pour ses vertus aidant à réduire les douleurs corporelles. Son goût mitigé âpre et doux est très efficace contre les irritations intestinales ainsi que la constipation , un antifatigue et anti-stress",
+      "price": 0.0,
+      "promotion": 0,
+      "shortDescription": null,
+      "utilization": null,
+      "quantity": 0,
+      "category": {
+        "id": 2,
+        "name": "Jus",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/jus pomme.jpg",
+      "createdAt": "2023-09-05T22:11:31.807+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    }
+  ]
+}

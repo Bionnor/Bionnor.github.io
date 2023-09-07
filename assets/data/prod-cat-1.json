@@ -1,0 +1,84 @@
+{
+  "currentPage": 0,
+  "totalPages": 1,
+  "pageSize": 6,
+  "responseList": [
+
+
+
+    {
+      "id": 4,
+      "name": "Vinaigre de cerises",
+      "description": "vinaigre issue 100 % de la double fermentation alcoolique et acétique du jus de cerises\n\n\nDonne un goût fruité et acidulé à vos salades , vinaigrettes et mayonnaises. Propriétés : laxatif, diurétique et rafraîchissant. Bienfaits pour : l’arthrite, le système digestif, ainsi pour la goutte et l’obésité. Il favorise la digestion.",
+      "price": 0.0,
+      "promotion": 0,
+      "shortDescription": "vinaigre de cerises",
+      "utilization": "Ajoutez une touche acidulée à vos plats en utilisant ce vinaigre de citron. Idéal pour mariner les poissons, agrémenter les salades et apporter une note rafraîchissante à vos plats.",
+      "quantity": 0,
+      "category": {
+        "id": 1,
+        "name": "Vinaigre",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/vinaigre cerices.jpg",
+      "createdAt": "2023-09-05T22:11:31.799+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Vinaigre de cerises au miel",
+      "description": "Macération du piment vert piquant dans le vinaigre de figue de barbarie bio FLO. Sans agressivité, son piquant progressif et chaud combiné à des parfums permet aux aliments d’amplifier leur propre saveur et de révéler des arômes spécifiques. Son parfum est très développé. Sauce piquante verte pour déguster avec vos plats, pizzas, crudités et grillades.",
+      "price": 0.0,
+      "promotion": 0,
+      "shortDescription": "Vinaigre relevé aux piments verts",
+      "utilization": "Ajoutez une touche épicée et aromatique à vos plats avec ce vinaigre de piments verts. Parfait pour ceux qui apprécient la saveur piquante et la profondeur des arômes.",
+      "quantity": 0,
+      "category": {
+        "id": 1,
+        "name": "Vinaigre",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/vinaigre cerices_au_miel.jpg",
+      "createdAt": "2023-09-05T22:11:31.800+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    },
+    {
+      "id": 6,
+      "name": "Vinaigre de figues",
+      "description": "Ces vinaigres au goût doux et fruité, sauront relever à la perfection vos salades estivales et salades de fruits. Vinaigre agréablement parfumé au citron, parfait substitut du jus de citron dans beaucoup de plats comme les salades de crudités, les crustacés, le taboulé, les marinades. Très parfumé, quelques gouttes suffisent pour réveiller vos sens et embellir tous vos plats.",
+      "price": 0.0,
+      "promotion": 0,
+      "shortDescription": "Vinaigre au parfum ensoleillé du citron",
+      "utilization": "Ajoutez une touche acidulée à vos plats en utilisant ce vinaigre de citron. Idéal pour mariner les poissons, agrémenter les salades et apporter une note rafraîchissante à vos plats.",
+      "quantity": 0,
+      "category": {
+        "id": 1,
+        "name": "Vinaigre",
+        "description": null,
+        "createdAt": null,
+        "updatedAt": null,
+        "parentCategory": null,
+        "subcategories": [],
+        "active": false
+      },
+      "imageUrl": "./assets/images/shop/vinaigre figue.jpg",
+      "createdAt": "2023-09-05T22:11:31.799+00:00",
+      "updatedAt": null,
+      "reviews": [],
+      "active": false
+    }
+]}

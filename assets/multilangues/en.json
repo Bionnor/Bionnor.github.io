@@ -1,0 +1,140 @@
+{
+  "home.band.welcome": "Welcome to Flora",
+  "nav": {
+    "Home": "Home",
+    "ProductsAndServices": "Products & Services",
+    "Blogs": "Blogs",
+    "AboutUs": "About Us",
+    "Contact": "Contact",
+    "DropdownPS": {
+      "ProductsAndServicesText": "Products & Services",
+      "FoodIngredient": "Food Ingredient",
+      "CosmeticIngredient": "Cosmetic Ingredient",
+      "FinalProducts": "Final Products",
+      "WhiteBrand": "White Brand"
+    },
+    "languages": {
+      "english": "English",
+      "french": "French",
+      "german": "German",
+      "espagnol": "Spanish"
+    }
+  },
+  "section": {
+    "Product": {
+      "title": "Our Products & Services",
+      "subtitle": "Our products are designed for everyone.",
+      "buttons": {
+        "FoodIngredient": "Food Ingredient",
+        "CosmeticIngredient": "Cosmetic Ingredient",
+        "FinalProducts": "Final Products",
+        "WhiteBrand": "Become White Brand"
+      }
+    },
+    "Seller": {
+      "title": "Discover our exclusive range",
+      "title-2": "of quality products",
+      "subtitle": "Quality, Variety, Excellence"
+    },
+    "VisionAndMission": {
+      "title": "Our Mission & Vision",
+      "subtitle": "United by a common vision, we deploy our collective potential to achieve excellence",
+      "VisionText": {
+        "title": "Vision",
+        "content": "We aim to be a global leader in the production and supply of organic and fair trade ingredients from typical Tunisian local products, obtained sustainably and responsibly."
+      },
+      "MissionText": {
+        "title": "Mission",
+        "content": "Provide innovative organic ingredients to cosmetic, food, and nutraceutical industries with a focus on typical local products such as cactus, pomegranate, and dates."
+      }
+    },
+    "Blog": {
+      "title": "Our Blogs",
+      "subtitle": "Explore our blogs for an endless source of inspiration."
+    },
+    "Collaborators": {
+      "title": "\"Certifications: Proof of our Expertise and Reliability\""
+    },
+    "mail": {
+      "title": "Sign up to stay informed and not miss anything.",
+      "button": "Sign Up"
+    }
+  },
+  "ViewMoreButton": "View More",
+  "footer": {
+    "content": "\"About Flora Agricultural Cooperative: Cultivating Excellence and Stimulating Regional Development\"",
+    "title": {
+      "first": "Flora: Exceptional Ingredients,",
+      "second": "Standardized Methods."
+    },
+    "urls": {
+      "UsefulLinksText": "Useful Links",
+      "UsefulLinks": {
+        "FoodIngredient": "Food Ingredient",
+        "WhiteBrand": "Become White Brand"
+      },
+      "InformationsText": "Information",
+      "Informations": {
+        "AboutUs": "About Us",
+        "Contact": "Contact"
+      },
+      "MenuText": "Menu",
+      "Menu": {
+        "Home": "Home",
+        "ProductsAndServices": "Products & Services",
+        "Blogs": "Blogs"
+      }
+    }
+  },
+  "product": {
+    "nav": {
+      "result1": "We found",
+      "result2": "products for you"
+    },
+    "indicator": {
+      "new": "New"
+    },
+    "container": {
+      "alert": "Nothing to display"
+    }
+  },
+  "blog": {
+    "header": {
+      "firstTitle": "From Our Blog",
+      "content": "Explore our blog to stay informed about the latest news."
+    }
+  },
+  "about-us": {
+    "header.presentation": "Flora Agricultural Cooperative is a partnership between FLORA Cooperative and actors such as INDH, OCP, the provincial department of agriculture, and ONCA. Based in BOUJAAD, it specializes in the cultivation of the Barbary fig tree and the production of juice, vinegar, jam, salad, Nopal powder, and oil derived from this fruit. Their mission is to improve farmers' income, promote the economic integration of women and youth, while contributing to the socio-economic development of the region.",
+    "steps": {
+      "recolte": {
+        "title": "Harvest",
+        "content": "When the Barbary figs are ripe, they are carefully harvested from the cacti. Cooperative workers select high-quality fruits, eliminating those that are damaged or defective."
+      },
+      "tri": {
+        "title": "Sorting and Preparation",
+        "content": "The harvested Barbary figs are then prepared to be transformed into final products. This may involve peeling the fruits to remove thorns and the outer skin, cutting them into pieces, or separating the pulp and seeds, depending on the final product targeted."
+      },
+      "transformation": {
+        "title": "Transformation",
+        "content": "After preparation, the Barbary figs are transformed into a variety of final products: juice, vinegar, jam, salad, Nopal powder, etc. The figs are pressed to extract their juice, which is then filtered and pasteurized before being bottled. The fig pulp can be cooked with sugar to create delicious jam. Additionally, they can be dehydrated to obtain Nopal powder, used as a dietary supplement, and the seeds can be pressed to extract oil used in cooking or cosmetic products."
+      },
+      "emballage": {
+        "title": "Packaging and Distribution",
+        "content": "Once the final products are manufactured, they are appropriately packaged, labeled, and ready for distribution in the market. The cooperative can handle direct distribution to consumers, local retailers, or larger distribution channels, depending on its business strategy."
+      }
+    }
+  },
+  "contact-us": {
+    "header-contact-us": {
+      "firstTitle": "Contact Us",
+      "content": "Feel free to contact us. Our dedicated team is here to help you."
+    },
+    "info-contact-us": "Information",
+    "address": "Addresses",
+    "header-store": {
+      "firstTitle": "Our Store",
+      "content": "Discover the location of our store with our interactive map."
+    }
+  }
+}

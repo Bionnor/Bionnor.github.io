@@ -1,0 +1,140 @@
+{
+  "home.band.welcome": "Willkommen bei Flora",
+  "nav": {
+    "Home": "Startseite",
+    "ProductsAndServices": "Produkte & Dienstleistungen",
+    "Blogs": "Blogs",
+    "AboutUs": "Über uns",
+    "Contact": "Kontakt",
+    "DropdownPS": {
+      "ProductsAndServicesText": "Produkte & Dienstleistungen",
+      "FoodIngredient": "Lebensmittelzutat",
+      "CosmeticIngredient": "Kosmetikzutat",
+      "FinalProducts": "Endprodukte",
+      "WhiteBrand": "Weißmarke"
+    },
+    "languages": {
+      "english": "Englisch",
+      "french": "Französisch",
+      "german": "Deutsch",
+      "espagnol": "Spanisch"
+    }
+  },
+  "section": {
+    "Product": {
+      "title": "Unsere Produkte & Dienstleistungen",
+      "subtitle": "Unsere Produkte sind für alle gedacht.",
+      "buttons": {
+        "FoodIngredient": "Lebensmittelzutat",
+        "CosmeticIngredient": "Kosmetikzutat",
+        "FinalProducts": "Endprodukte",
+        "WhiteBrand": "Weißmarke werden"
+      }
+    },
+    "Seller": {
+      "title": "Entdecken Sie unsere exklusive Auswahl",
+      "title-2": "hochwertiger Produkte",
+      "subtitle": "Qualität, Vielfalt, Exzellenz"
+    },
+    "VisionAndMission": {
+      "title": "Unsere Mission & Vision",
+      "subtitle": "Gemeinsam verfolgen wir eine gemeinsame Vision und entfalten unser kollektives Potenzial, um Exzellenz zu erreichen.",
+      "VisionText": {
+        "title": "Vision",
+        "content": "Unser Ziel ist es, weltweit führend in der Herstellung und Bereitstellung von biologischen und fairen Zutaten aus typisch tunesischen lokalen Produkten zu sein, die nachhaltig und verantwortungsbewusst gewonnen werden."
+      },
+      "MissionText": {
+        "title": "Mission",
+        "content": "Wir liefern innovative biologische Zutaten für die Kosmetik-, Lebensmittel- und Nahrungsergänzungsmittelindustrie und legen dabei besonderen Wert auf typische lokale Produkte wie Kaktus, Granatapfel und Datteln."
+      }
+    },
+    "Blog": {
+      "title": "Unsere Blogs",
+      "subtitle": "Entdecken Sie unsere Blogs als unerschöpfliche Inspirationsquelle."
+    },
+    "Collaborators": {
+      "title": "\"Zertifizierungen: Ein Beweis für unsere Expertise und Zuverlässigkeit\""
+    },
+    "mail": {
+      "title": "Melden Sie sich an, um informiert zu bleiben und nichts zu verpassen.",
+      "button": "Anmelden"
+    }
+  },
+  "ViewMoreButton": "Mehr anzeigen",
+  "footer": {
+    "content": "\"Über die Agrar-Genossenschaft FLORA: Exzellenz in der Landwirtschaft und Förderung der regionalen Entwicklung\"",
+    "title": {
+      "first": "Flora: Außergewöhnliche Zutaten, ",
+      "second": "standardisierte Verfahren."
+    },
+    "urls": {
+      "UsefulLinksText": "Nützliche Links",
+      "UsefulLinks": {
+        "FoodIngredient": "Lebensmittelzutat",
+        "WhiteBrand": "Weißmarke werden"
+      },
+      "InformationsText": "Informationen",
+      "Informations": {
+        "AboutUs": "Über uns",
+        "Contact": "Kontakt"
+      },
+      "MenuText": "Menü",
+      "Menu": {
+        "Home": "Startseite",
+        "ProductsAndServices": "Produkte & Dienstleistungen",
+        "Blogs": "Blogs"
+      }
+    }
+  },
+  "product": {
+    "nav": {
+      "result1": "Wir haben",
+      "result2": "Produkte für Sie gefunden"
+    },
+    "indicator": {
+      "new": "Neu"
+    },
+    "container": {
+      "alert": "Nichts anzuzeigen"
+    }
+  },
+  "blog": {
+    "header": {
+      "firstTitle": "Aus unserem Blog",
+      "content": "Entdecken Sie unseren Blog, um über die neuesten Nachrichten informiert zu bleiben."
+    }
+  },
+  "about-us": {
+    "header.presentation": "Die Agrar-Genossenschaft FLORA ist eine Partnerschaft zwischen der Genossenschaft FLORA und Akteuren wie dem INDH, dem OCP, dem Provinzlandwirtschaftsamt und dem ONCA. Mit Sitz in BOUJAAD hat sie sich auf den Anbau von Feigenkakteen und die Herstellung von Saft, Essig, Marmelade, Salat, Nopalpulver und Öl aus dieser Frucht spezialisiert. Ihre Mission ist es, das Einkommen der Landwirte zu verbessern, die wirtschaftliche Integration von Frauen und Jugendlichen zu fördern und gleichzeitig zur sozioökonomischen Entwicklung der Region beizutragen.",
+    "steps": {
+      "recolte": {
+        "title": "Ernte",
+        "content": "Wenn die Feigenkakteen reif sind, werden sie sorgfältig von den Kakteen geerntet. Die Mitarbeiter der Genossenschaft wählen qualitativ hochwertige Früchte aus und entfernen beschädigte oder fehlerhafte Früchte."
+      },
+      "tri": {
+        "title": "Sortierung und Vorbereitung",
+        "content": "Die geernteten Feigenkakteen werden anschließend für die Verarbeitung zu Endprodukten vorbereitet. Dies kann das Schälen der Früchte sein, um die Stacheln und die äußere Haut zu entfernen, oder das Zerteilen oder die Trennung von Fruchtfleisch und Samen, je nach gewünschtem Endprodukt."
+      },
+      "transformation": {
+        "title": "Verarbeitung",
+        "content": "Nach der Vorbereitung werden die Feigenkakteen in verschiedene Endprodukte umgewandelt: Saft, Essig, Marmelade, Salat, Nopalpulver und mehr.<br>Die Früchte werden gepresst, um ihren Saft zu extrahieren, der dann gefiltert und pasteurisiert und schließlich in Flaschen abgefüllt wird. Das Fruchtfleisch der Feigenkakteen kann mit Zucker gekocht werden, um köstliche Marmelade herzustellen. Außerdem können sie dehydriert werden, um Nopalpulver als Nahrungsergänzungsmittel zu erhalten, und die Samen können gepresst werden, um Öl für die Verwendung in der Küche oder in Kosmetikprodukten zu gewinnen."
+      },
+      "emballage": {
+        "title": "Verpackung und Verteilung",
+        "content": "Sobald die Endprodukte hergestellt sind, werden sie angemessen verpackt, beschriftet und für den Vertrieb auf dem Markt bereitgemacht. Die Genossenschaft kann die direkte Verteilung an Verbraucher, lokale Einzelhändler oder größere Vertriebskanäle je nach Geschäftsstrategie handhaben."
+      }
+    }
+  },
+  "contact-us": {
+    "header-contact-us": {
+      "firstTitle": "Kontaktieren Sie uns",
+      "content": "Zögern Sie nicht, uns zu kontaktieren. Unser engagiertes Team steht Ihnen zur Seite."
+    },
+    "info-contact-us": "Informationen",
+    "address": "Adressen",
+    "header-store": {
+      "firstTitle": "Unser Geschäft",
+      "content": "Entdecken Sie den Standort unseres Ladens mithilfe unserer interaktiven Karte."
+    }
+  }
+}

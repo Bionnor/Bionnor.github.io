@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Vinaigre",
+    "description": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "parentCategory": null,
+    "subcategories": [],
+    "active": false
+  },
+  {
+    "id": 2,
+    "name": "Jus",
+    "description": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "parentCategory": null,
+    "subcategories": [],
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Confiture",
+    "description": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "parentCategory": null,
+    "subcategories": [],
+    "active": false
+  }
+]

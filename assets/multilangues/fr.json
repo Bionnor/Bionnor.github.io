@@ -1,0 +1,320 @@
+{
+
+  "home.band.welcome":  "Bienvenue au Flora",
+  "nav": {
+    "Home":  "Acceuil",
+    "ProductsAndServices": "Produits & Services",
+    "Blogs": "blogs",
+    "AboutUs": "Qui sommes nous?",
+    "Contact": "Contact",
+    "DropdownPS": {
+      "ProductsAndServicesText": "Produits & Services",
+      "FoodIngredient": "Ingredient Alimentaire",
+      "CosmeticIngredient": "Ingredient Cosmetique",
+      "FinalProducts": "Produits Finis",
+      "WhiteBrand":"Marque Blanche"
+    },
+    "languages": {
+      "english": "Anglais",
+      "french": "Français",
+      "german": "Allemand",
+      "espagnol": "Espagnol"
+    }
+  },
+  "section": {
+    "Product": {
+      "title":"Nos Produits & Services",
+      "subtitle": "Nos produits sont désignés pour tous.",
+      "buttons":{
+        "FoodIngredient": "Ingredients Alimentaires",
+        "CosmeticIngredient": "Ingredients Cosmetiques",
+        "FinalProducts": "Produits Finis",
+        "WhiteBrand":"Marque Blanche"
+      }
+    },
+    "Seller": {
+      "title":"Découvrez notre gamme exclusive ",
+      "title-2": "de produits de qualité",
+      "subtitle": "Qualité, Variété, Excellence"
+    },
+    "VisionAndMission": {
+      "title":" Mission & Vision",
+      "subtitle": "Unis par une vision commune, déployons notre potentiel collectif pour atteindre l'excellence",
+      "VisionText": {
+        "title": "Vision",
+        "content": "Nous visons à être un leader  dans la production et l’approvisionnement d'ingrédients biologiques et équitables issus de produits marocains locaux typiques, obtenus de manière durable et responsable."
+      },
+      "MissionText": {
+        "title": "Mission",
+        "content": "Fournir des ingrédients biologiques innovants aux industries cosmétiques, agroalimentaires  en mettant l'accent sur les produits locaux typiques tels que le cactus,la pomme, la grenade et les dattes."
+      }
+    },
+    "Blog": {
+      "title": "Nos Blogs",
+      "subtitle": "Explorez nos blogs pour une source d'inspiration inépuisable."
+    },
+    "Collaborators": {
+      "title": "\"Certifications : Une Preuve de notre Expertise et de notre Fiabilité\""
+    },
+    "mail": {
+      "title": "Inscrivez-vous pour rester informé et ne rien manquer.",
+      "button": "S'inscrire"
+    }
+    },
+  "ViewMoreButton": "voir plus",
+  "footer":{
+    "content": "\"À propos de La Coopérative agricole FLORA : Cultiver l'excellence et stimuler le développement régional \"",
+    "title": {
+      "first": "Flora :Ingrédients exceptionnels, ",
+      "second": "méthodes standardisées ."
+    },
+    "urls": {
+      "UsefulLinksText":"Liens Utiles",
+      "UsefulLinks": {
+        "FoodIngredient": "Ingredient Alimentaire",
+        "WhiteBrand":"Devenir Marque Blanche"
+      },
+      "InformationsText":"Information",
+      "Informations": {
+        "AboutUs": "Qui nous somme nous?",
+        "Contact": "Contact"
+      },
+      "MenuText":"Menu",
+      "Menu": {
+        "Home":  "Acceuil",
+        "ProductsAndServices": "Produits & Services",
+        "Blogs": "Blogs"
+      }
+    }
+
+  },
+  "product": {
+  "nav": {
+    "result1": "On a trouvé",
+    "result2": " produits pour vous"
+  },
+  "indicator": {
+    "new": "Nouveau"
+
+  },
+    "container": {
+      "alert": "rien à afficher"
+    }
+},
+  "blog": {
+   "header": {
+     "firstTitle": "Depuis notre Blog",
+     "content": "Découvrez notre blog pour rester informédes dernières actualités."
+   }
+ },
+  "about-us": {
+    "header.presentation": "        La Coopérative agricole FLORA est un partenariat entre la coopérative FLORA et des acteurs tels que l'INDH, l'OCP, le département provincial de l'agriculture et l'ONCA. Basée à BOUJAAD, elle se spécialise dans la culture du figuier de Barbarie et la production de jus, vinaigre, confiture, salade, poudre Nopal et huile dérivés de ce fruit. Leur mission est d'améliorer les revenus des agriculteurs, favoriser l'insertion économique des femmes et des jeunes, tout en contribuant au développement socio-économique de la région.",
+    "steps":
+    {
+      "recolte": {
+        "title": "Récolte",
+        "content": "Lorsque les figues de Barbarie sont mûres, elles sont soigneusement récoltées des cactus. Les travailleurs de la coopérative sélectionnent les fruits de qualité, en éliminant ceux qui sont endommagés ou présentent des défauts."
+      },
+      "tri":
+      {
+        "title": "Tri et préparation",
+        "content": "Les figues de Barbarie récoltées sont ensuite préparées pour être transformées en produits finaux. Cela peut impliquer l'épluchage des fruits pour éliminer les épines et la peau extérieure, la découpe en morceaux ou la séparation de la pulpe et des graines, selon le produit final visé."
+
+      },
+      "transformation":
+      {
+        "title": "Transformation ",
+        "content": " Après la préparation, les figues de Barbarie sont transformées en une variété de produits finaux : jus, vinaigre, confiture, salade, poudre de Nopal ....<br>\n          Les figues sont pressées pour extraire leur jus, qui est ensuite filtré et pasteurisé avant d'être embouteillé.\n          La pulpe des figues peut être cuite avec du sucre pour créer une délicieuse confiture. De plus, elles peuvent être déshydratées pour obtenir de la poudre de Nopal, utilisée comme complément alimentaire, et les graines peuvent être pressées pour extraire une huile utilisée en cuisine ou dans des produits cosmétiques.\n       "
+
+      },
+      "emballage":
+      {
+        "title": "Emballage et distrubution",
+        "content": "Une fois les produits finaux fabriqués, ils sont emballés de manière appropriée, étiquetés et prêts à être distribués sur le marché. La coopérative peut gérer la distribution directe aux consommateurs, aux détaillants locaux ou aux canaux de distribution plus larges, en fonction de sa stratégie commerciale.\n"
+
+      }
+    }
+
+  },
+  "contact-us": {
+    "header-contact-us": {
+      "firstTitle": "Contactez-nous",
+      "content": "N'hésitez pas à nous contacter. Notre équipe dévouée est là pour vous aider."
+    },
+    "info-contact-us":"Information",
+    "address": "Adresses",
+    "header-store": {
+      "firstTitle": "Notre Store",
+      "content": "Découvrez l'emplacement de notre magasin grâce à notre carte interactive."
+    }
+
+  },
+
+  "export":
+  {
+    "title": "Exportation mondiale avec 10 ans d'expérience",
+    "content": "Nous sommes fiers d'exporter vers les 5 continents, notamment les Etats-Unis, l'Europe et le Moyen-Orient, avec 10 années d'expérience à notre actif.\n          <br>Depuis plus de 10 ans, nous exportons vers les 5 continents, bénéficiant d'une expertise solide dans le domaine. Notre réseau de partenaires comprend des spécialistes en cosmétique et en logistique, tels que des transporteurs, transitaires et déclarants en douane expérimentés.\n\n            Notre réputation auprès des instances étatiques régulant le processus d'exportation est bien établie, incluant les Douanes Maroc, les Douanes des pays de destination, l'EACCE, les Chambres de Commerce, les Services économiques des consulats, l'ONSSA, et le DMP.",
+    "blocs":
+    {
+      "exportation":
+      {
+        "title": "Exportation",
+        "content": "Exportation mondiale, 10+ ans d'expérience, partenaires spécialisés, notoriété étatique."
+      },
+      "formalite":
+      {
+        "title": "Formalité",
+        "content": "Conformité totale avec les exigences d'export marocaines : DMP, EACCE, douane, Chambres de Commerce, etc."
+      },
+      "emballage": {
+        "title":"Emballage",
+          "content":"Emballages éco-responsables, normes internationales, matériaux écologiques."
+      }
+    }
+  },
+  "professionnel": {
+    "title": "Votre Formule, Notre Expertise",
+    "subtitle": "Fabrication et Conditionnement Sous Votre Marque",
+    "section": {
+      "title": "Vous possédez déjà votre formule ?",
+      "content": "Nous sommes capables de la fabriquer et de la conditionner sous votre marque en petite, moyenne et grande série. Notre laboratoire est en mesure de répondre à toutes vos demandes (liquides, semi-liquides, pâteux).",
+      "boutton": "contacter nous"
+    }
+
+  },
+  "franchise":
+  {
+    "title": "La franchise Flora",
+    "content":"Est un modèle de développement en réseau qui s’appuie sur un contrat spécifique. Flora a su développé un concept unique (produits cosmétiques marocains naturels haut de gamme) original et duplicable",
+    "blocs":
+    {
+      "avantage":
+      {
+        "title": "Avantage",
+        "content": "\"Rejoindre la franchise Flora offre de nombreux avantages. L'un des plus importants est la possibilité de démarrer une entreprise qui a déjà fait ses preuves. En tant que franchisé Flora, vous bénéficiez du savoir-faire et de la notoriété de notre marque, ce qui réduit considérablement les risques liés à la création d'entreprise. Les statistiques montrent que les entreprises créées en franchise ont une durée de vie notablement plus longue que celles créées en solo.\""
+
+      },
+      "accompagnement":
+      {
+        "title": "Accompagnement du franchiseur",
+        "content": "\"Chez Flora, nous nous engageons à soutenir nos franchisés à chaque étape de leur parcours. Vous recevrez une formation initiale complète pour vous préparer au succès. De plus, notre programme de formation continue vous permettra de rester à la pointe de votre secteur. Nous organisons également des sessions d'animation de réseau et vous offrons une assistance technique pour vous aider à surmonter les défis qui peuvent se présenter.\""
+      },
+      "exclusivite":
+      {
+        "title": "Exclusivité territoriale",
+        "content": "\"En tant que franchisé Flora, vous bénéficierez d'une exclusivité d'exploitation sur un territoire donné. Cela signifie que vous aurez la possibilité de développer votre entreprise dans un marché spécifique sans la concurrence directe d'autres franchisés de notre réseau. Cette exclusivité territoriale peut constituer un avantage significatif pour votre succès à long terme.\""
+      }
+    },
+    "bouttons":
+    {
+      "distributeur":"Devenir Distributeur",
+      "franchise": "Devenir Franchisé"
+    }
+  },
+  "inquiry":
+  {
+    "title": "Vous possédez déja votre formule ?",
+    "form":
+    {
+      "name": "Name",
+      "email": "Email",
+      "objet": "Objet",
+      "content": "Messenger"
+
+    }
+  },
+
+  "aboutUs": {
+    "title": "About Flora",
+    "subtitle": "INTRODUCING",
+    "section1": {
+      "title": "LES EXPERTES : AICHA AARABI & NAOUAL ENNOUHI",
+      "content": "Deux expertes dans la valorisation des matières premières agricoles en industrie cosmétique et industrie agroalimentaire depuis des années, dans le sourcing de matières premières, dans la mise au point ou l’objectivation d’actifs, dans les tests de sécurité et d’efficacité.\n\nElles se sont côtoyées longtemps au gré des collaborations de leurs différentes entreprises et coopératives avant de devenir amies. Elles parlent de ce projet commun comme d’une forme d’aboutissement. La concrétisation de leur envie de faire des aliments & des cosmétiques autrement, pour faire du bien aux hommes et à la nature."
+    },
+    "section2": {
+      "team": [
+        {
+          "name": "Slava Fedutik",
+          "position": "Founder, Chief Creative"
+        },
+        {
+          "name": "Aicha Aarabi",
+          "position": "Founder, Chief Creative"
+        },
+        {
+          "name": "Naoual Ennouhi",
+          "position": "Founder, Chief Creative"
+        }
+      ],
+      "quote": "Un rêve qui se réalise, c’est l’expérience qui parle"
+    },
+    "section3": {
+      "title": "NOTRE PROJET ET PRODUITS:",
+      "project": {
+        "title":"Projet : " ,
+        "description": "Recyclage valorisant des surproductions et des déchets alimentaires pour des applications durables. La demande mondiale en protéines et ingrédients biosourcés dépassera bientôt la capacité de production actuelle. Notre projet répond à ce besoin par une approche axée sur la valorisation et la transformation qui traite les résidus agricoles pour générer des composés destinés à l’alimentation et aux cosmétiques."
+      },
+      "product": {
+        "title": "Produit : ",
+        "description": "Des gammes de produits qui ont du sens, et des valeurs. Elle s’appelle FLORA et allie technologie, naturalité et sécurité, conscience écologique et éthique, responsabilité et expérience avec une belle dose d’humanisme en plus."
+      }
+    },
+    "section4": {
+      "title": "IMPACT ENVIRONNEMENTAL POSITIF",
+      "impact": {
+        "title1": "L'idée : " ,
+        "title2":"Notre objectif :",
+        "description": " Transformer les usages mis en place pour le recyclage valorisant des surproductions et des déchets alimentaires (PLANTES, FRUITS & LÉGUMES) pour des applications durables (Superfoods & cosmétiques...). Créer une relation singulière des producteurs et transformateurs de légumes et fruits avec quatre valeurs clés : disponibilité, réactivité, agilité et juste prix.",
+        "objective": " 100% indépendant et étendons notre vision du recyclage à travers le Royaume, avec toujours la même volonté, celle de faire mieux pour la planète et pour nos clients !"
+      }
+    },
+    "section5": {
+      "title": "NOS ENGAGEMENTS RSE",
+      "engagementsRSE": {
+        "description": "Chez nous dans chaque projet de partenariat, on adopte une approche globale et responsable, à la fois à court et à long terme. Une approche qui respecte les facteurs socio-culturels, économiques et écologiques de la zone cible. Notre approche apporte le savoir-faire et le support nécessaires pour la réussite et la mise en œuvre des projets. En fait, dans tout projet inscrit dans le cadre de notre activité d'approvisionnement par exemple, on ne s'intéresse pas uniquement à l’approvisionnement, on essaie de créer aussi une collaboration avec la population locale si possible, dans le but de démarrer un programme, des ateliers sur la préservation des ressources naturelles, la biodiversité, l’environnement ainsi que les secteurs sociaux et économiques.",
+        "inclusiveApproach": "Notre approche dans ce partenariat insiste également sur le fait que le projet soit inclusif et participatif. Sans l’implication des locaux, le projet est voué à l'échec. Cette structure inclusive et participative permet d'une part de responsabiliser la population locale et d'autre part de les encourager à initier eux-mêmes de nouveaux projets socio-économiques viables pour leur région. Des projets pour servir la communauté, diminuer la pauvreté et le chômage, limiter l’exode rural, conserver les ressources naturelles et valoriser les terres cultivables et améliorer ainsi la situation socio-économique de leur région."
+      }
+    },
+    "section6": {
+      "items": {
+            "Inclusion": {
+              "title": "Inclusion",
+              "content": "L’humain est au cœur de notre projet : Offrir des solutions très performantes, efficaces et économiques pour mieux gérer les déchets agroalimentaires et maintenir la biosécurité de les sites des producteurs et transformateurs."
+            },
+          "Transparence":
+          {
+          "title": "Transparence",
+          "content": "Nous sommes une entreprise à forte valeur environnementale ajoutée et disposons des autorisations obligatoires et nécessaires à son activité."
+          },
+            "Existence":
+          {
+          "title": "Être présent sur le territoire",
+          "content": "Décentraliser et proposer une offre de recyclage différenciante en région !"
+          },
+            "challenge":
+          {
+          "title": "Se challenger",
+          "content": "Nous travaillons actuellement sur notre politique RSE de la gouvernance aux activités d’exploitation."
+          }
+          }
+    },
+    "section7": {
+      "equitableDevelopment": {
+        "description": "Qui dit Agriculture au Maroc dit aussi culture, collecte et transformation. Nous sommes très impliquées sur le terrain. D’abord, nous contribuions, notamment avec les groupements féminins, à trouver les meilleures matières premières. Ensuite, nous accompagnions la transformation sur place : Afin d’assurer la collecte et les extractions, puis l’export. Sur place, on est associé avec les groupements coopératives, GIE et Agriculteurs. Enfin, nous les motivons pour assurer leur autonomie financière : on les accompagne pour être autonomes sur la production de leurs propres produits alimentaires et cosmétiques locaux en vente B TO C, et qu’elles ne dépendent pas uniquement de la vente de la matière première en B TO B pour leurs revenus.",
+        "transformation": "Transformation : Les figues de Barbarie récoltées sont ensuite préparées pour être transformées en produits finaux. Cela peut impliquer l'épluchage des fruits pour éliminer les épines et la peau extérieure, la découpe en morceaux ou la séparation de la pulpe et des graines, selon le produit final visé."
+      }
+    },
+    "section8": {
+      "certifications": "Certifications : Une Preuve de notre Expertise et de notre Fiabilité"
+    },
+    "developpement":
+    {
+      "title": "DEVELOPPEMENT EQUITABLE",
+      "content": "Qui dit Agriculture au Maroc dit aussi culture, collecte et transformation. Nous sommes très impliquées sur le terrain. D’abord, nous contribuions, notamment avec les groupements féminins, à trouver les meilleures matières premières. Esuite nous accompagnions la transformation sur place : Afin d’assurer la collecte et les extractions, puis l’export. Sur place, on est associé avec les groupements cooperatives, GIE et Agriculteurs Enfin, nous les motivons pour assurer leur autonomie financière : on les accompagneant à être autonomes sur la production de leurs propres produits alimentaires et cosmétiques locaux en vente B TO C, et qu’lles dépendent pas uniquement de la vente de la matière première en B TO B pour leur revenus."
+    }
+  }
+
+
+
+
+}
